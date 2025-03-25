@@ -8,6 +8,9 @@ creato la cartella di progetto
 npm init => npm init -y
 npm install axios => salvato tutti i files in node_modules
 const axios = require('axios');
+
+
+npm install
 */
 
 // console.log(axios);
